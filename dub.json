@@ -1,0 +1,10 @@
+{
+	"name": "odbc_drivermanager",
+	"description": "A simple ODBC Driver manager.",
+	"copyright": "Copyright © 2015, Richard Andrew Cattermole",
+	"authors": ["Richard Andrew Cattermole"],
+	"dependencies": {
+		"derelict-util": ">=1.9.1"
+	},
+	"targetType": "library"
+}
